@@ -161,6 +161,3 @@ Infrastructure de cybersécurité complète avec simulation d'attaques et détec
 - 💼 [LinkedIn](https://linkedin.com/in/wissalrhandi)
 - 📍 Khouribga, Maroc
 
----
-
-⭐ **Recherche stage PFA** : Cybersécurité, SOC, Détection d'intrusions, SIEM
